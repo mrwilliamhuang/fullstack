@@ -22,6 +22,20 @@ This project is designed for individuals to learn full-stack IT knowledge.
     git config --global user.email "yourname@org.com"
     git config --global credential.helper store
     ```
-    [copy]
-    ```
+
+    <button onclick="copyToClipboard()">Copy</button>
+
+    <script>
+    function copyToClipboard() {
+        const text = `git config --global user.name "your name"
+    git config --global user.email "yourname@org.com"
+    git config --global credential.helper store`;
+        navigator.clipboard.writeText(text).then(function() {
+            alert('Copied to clipboard');
+        }, function(err) {
+            alert('Failed to copy text: ', err);
+        });
+    }
+    </script>
+
 
