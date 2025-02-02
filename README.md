@@ -22,3 +22,6 @@ This project is designed for individuals to learn full-stack IT knowledge.
     git config --global user.email "yourname@org.com"
     git config --global credential.helper store
     ```
+    [copy]
+    ```
+
