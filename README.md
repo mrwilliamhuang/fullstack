@@ -5,6 +5,7 @@ This project is designed for individuals to learn full-stack IT knowledge.
 - [项目目的](#项目目的)
 - [项目范围](#项目范围)
 - [学习途径(更新中......)](#学习途径更新中)
+- [成功步骤](#成功步骤)
 
 ## 学习者主页
 - [Abandan 主页](abandan/README.md)
@@ -27,3 +28,5 @@ This project is designed for individuals to learn full-stack IT knowledge.
     git config --global user.email "yourname@org.com"
     git config --global credential.helper store
     ```
+# 成功步骤
+1. 能用vscode 修改自己的个人readme.md, 并上传到github, 代表掌握了编程前的初步基础设置
