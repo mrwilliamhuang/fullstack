@@ -7,7 +7,7 @@ This project is designed for individuals to learn full-stack IT knowledge.
 - [学习途径(更新中......)](#学习途径更新中)
 - [Abandan 主页](abandan/README.md)
 - [Fan 主页](fan/README.md)
-- [Jimmy 主页](Jimmy/README.md)
+- [Jimmy 主页](jimmy/README.md)
 
 # 项目目的
 主要为了一个完全不懂计算机编程的新人，通过指导性学习，掌握前端，后端，数据库，Linux服务器，DevOps的全栈开发，互联网网络，掌握软件编程技能，和英语一样，成为个人的基础技能。
