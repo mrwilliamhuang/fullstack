@@ -4,8 +4,10 @@ This project is designed for individuals to learn full-stack IT knowledge.
 ## 目录
 - [项目目的](#项目目的)
 - [项目范围](#项目范围)
-- [学习途径(更新中......)](#学习途径更新中)
-- [成功步骤](#成功步骤)
+- [Vscode学习途径](#Vscode学习途径)
+- [vscode学习途径结果检验](#vscode学习途径结果检验)
+- [cursor学习途径](#cursor学习途径)
+- [cursor学习途径结果检验](#cursor学习途径结果检验)
 
 ## 学习者主页
 - [Abandan 主页](abandan/README.md)
@@ -18,7 +20,7 @@ This project is designed for individuals to learn full-stack IT knowledge.
 # 项目范围
 开发一个学生查分系统，让每个学生输入准考证号码，获知自己高考6门课程的分数。要求整个系统部署到互联网，每个学生通过手机或者电脑查询到自己的分数。
 
-# 学习途径(更新中......)
+# Vscode学习途径
 1. 科学上网 v2rayN, 机场 yudou66.com
 1. VSCode 编辑器安装
 1. Git 安装，使用 cn mirror，所有软件安装都要尽量找到 China Mirror。
@@ -29,5 +31,11 @@ This project is designed for individuals to learn full-stack IT knowledge.
     git config --global credential.helper store
     ```
 
-# 成功步骤
+# vscode学习途径结果检验
 1. 能用vscode 修改自己的个人readme.md, 并上传到github, 代表掌握了编程前的初步基础设置
+
+# cursor学习途径
+1. 安装
+
+# cursor学习途径结果检验
+1. 
