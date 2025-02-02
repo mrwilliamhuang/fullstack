@@ -29,6 +29,7 @@ This project is designed for individuals to learn full-stack IT knowledge.
     git config --global user.name "your name"
     git config --global user.email "yourname@org.com"
     git config --global credential.helper store
+    git config --global http.proxy http://127.0.0.1:10809
     ```
 
 # vscode学习途径结果检验
