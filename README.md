@@ -17,25 +17,11 @@ This project is designed for individuals to learn full-stack IT knowledge.
 1. VSCode 编辑器安装
 1. Git 安装，使用 cn mirror，所有软件安装都要尽量找到 China Mirror。
 1. Git 设置
-    ```bash
-    git config --global user.name "your name"
-    git config --global user.email "yourname@org.com"
-    git config --global credential.helper store
+    ```markdown
+        ```bash
+        git config --global user.name "your name"
+        git config --global user.email "yourname@org.com"
+        git config --global credential.helper store
+        ```
+        <button onclick="navigator.clipboard.writeText('git config --global user.name \"your name\"\ngit config --global user.email \"yourname@org.com\"\ngit config --global credential.helper store')">Copy</button>
     ```
-
-    <button onclick="copyToClipboard()">Copy</button>
-
-    <script>
-    function copyToClipboard() {
-        const text = `git config --global user.name "your name"
-    git config --global user.email "yourname@org.com"
-    git config --global credential.helper store`;
-        navigator.clipboard.writeText(text).then(function() {
-            alert('Copied to clipboard');
-        }, function(err) {
-            alert('Failed to copy text: ', err);
-        });
-    }
-    </script>
-
-
