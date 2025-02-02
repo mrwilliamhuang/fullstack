@@ -21,7 +21,7 @@ This project is designed for individuals to learn full-stack IT knowledge.
 1. 科学上网 v2rayN, 机场 yudou66.com
 1. VSCode 编辑器安装
 1. Git 安装，使用 cn mirror，所有软件安装都要尽量找到 China Mirror。
-1. Git 设置
+1. Git 设置, 用SSH代理HTPPS,如果Https访问经常报错
     ```bash
     git config --global user.name "your name"
     git config --global user.email "yourname@org.com"
