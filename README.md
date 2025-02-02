@@ -6,3 +6,9 @@ for people to learn full stack it knowledge.
 
 # 学习途径
 1. 科学上网 v2rayN, 机场 yudou66.com
+1. vscode 编辑器安装
+1. git 安装，使用cn mirror, 所有软件安装都要尽量找到China Mirror。
+1. git 设置
+    git config --global user.name "william"
+    git config --global user.email "william@org.com"
+    git config --global credential.helper store
